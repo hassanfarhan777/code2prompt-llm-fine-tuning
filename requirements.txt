@@ -1,0 +1,8 @@
+torch
+tensorflow==2.19.0
+openai==1.91.0
+transformers==4.52.4
+sentence-transformers==4.1.0
+datasets==3.6.0
+psutil==7.0.0
+ipython==8.18.1
